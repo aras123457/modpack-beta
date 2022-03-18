@@ -1,0 +1,77 @@
+<TextureAtlas imagePath="Edd.png">
+<SubTexture name="EddDown0000" x="0" y="0" width="582" height="394" rotated="true" frameX="0" frameY="-12" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0001" x="0" y="0" width="582" height="394" rotated="true" frameX="0" frameY="-12" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0002" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0003" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0004" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0005" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0006" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0007" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0008" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0009" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0010" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0011" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0012" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0013" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddDown0014" x="582" y="0" width="592" height="378" rotated="true" frameX="-8" frameY="-1" frameWidth="394" frameHeight="594"/>
+<SubTexture name="EddHEY!!0000" x="1174" y="0" width="660" height="386" rotated="true" frameX="0" frameY="0" frameWidth="391" frameHeight="662"/>
+<SubTexture name="EddIdle0000" x="582" y="386" width="378" height="645" frameX="0" frameY="-8" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0001" x="582" y="386" width="378" height="645" frameX="0" frameY="-8" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0002" x="960" y="386" width="373" height="647" frameX="-5" frameY="-7" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0003" x="960" y="386" width="373" height="647" frameX="-5" frameY="-7" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0004" x="1333" y="386" width="372" height="653" frameX="-3" frameY="-1" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0005" x="1705" y="386" width="372" height="653" frameX="-4" frameY="-1" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0006" x="0" y="1039" width="367" height="653" frameX="-8" frameY="-1" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0007" x="367" y="1039" width="368" height="653" frameX="-7" frameY="-1" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0008" x="735" y="1039" width="368" height="654" frameX="-7" frameY="0" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0009" x="1103" y="1039" width="368" height="654" frameX="-8" frameY="0" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0010" x="1103" y="1039" width="368" height="654" frameX="-8" frameY="0" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0011" x="1471" y="1039" width="368" height="654" frameX="-7" frameY="0" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0012" x="1471" y="1039" width="368" height="654" frameX="-7" frameY="0" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddIdle0013" x="2077" y="0" width="368" height="654" frameX="-8" frameY="0" frameWidth="378" frameHeight="654"/>
+<SubTexture name="EddLeft0000" x="1839" y="1039" width="658" height="370" rotated="true" frameX="0" frameY="0" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0001" x="1839" y="1039" width="658" height="370" rotated="true" frameX="0" frameY="0" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0002" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0003" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0004" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0005" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0006" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0007" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0008" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0009" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0010" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0011" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0012" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0013" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddLeft0014" x="1839" y="1409" width="652" height="362" rotated="true" frameX="-8" frameY="-5" frameWidth="371" frameHeight="658"/>
+<SubTexture name="EddRight0000" x="0" y="1771" width="664" height="492" rotated="true" frameX="0" frameY="0" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0001" x="0" y="1771" width="664" height="492" rotated="true" frameX="0" frameY="0" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0002" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0003" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0004" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0005" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0006" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0007" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0008" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0009" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0010" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0011" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0012" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0013" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddRight0014" x="664" y="1771" width="662" height="478" rotated="true" frameX="-1" frameY="-1" frameWidth="492" frameHeight="664"/>
+<SubTexture name="EddUp0000" x="1326" y="1771" width="682" height="324" rotated="true" frameX="0" frameY="0" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0001" x="1326" y="1771" width="682" height="324" rotated="true" frameX="0" frameY="0" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0002" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0003" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0004" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0005" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0006" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0007" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0008" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0009" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0010" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0011" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0012" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0013" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+<SubTexture name="EddUp0014" x="1326" y="2095" width="674" height="324" rotated="true" frameX="-3" frameY="-7" frameWidth="327" frameHeight="683"/>
+</TextureAtlas>
