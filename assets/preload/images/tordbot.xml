@@ -1,0 +1,22 @@
+<TextureAtlas imagePath="TordBot.png">
+<SubTexture name="TordBot Enter0000" x="0" y="0" width="664" height="764" rotated="true" frameX="0" frameY="0" frameWidth="766" frameHeight="664"/>
+<SubTexture name="TordBot Enter0001" x="0" y="0" width="664" height="764" rotated="true" frameX="0" frameY="0" frameWidth="766" frameHeight="664"/>
+<SubTexture name="TordBot Enter0002" x="0" y="0" width="664" height="764" rotated="true" frameX="0" frameY="0" frameWidth="766" frameHeight="664"/>
+<SubTexture name="TordBot Enter0003" x="0" y="0" width="664" height="764" rotated="true" frameX="0" frameY="0" frameWidth="766" frameHeight="664"/>
+<SubTexture name="TordBot Boom0000" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0001" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0002" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0003" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0004" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0005" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0006" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0007" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0008" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0009" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0010" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0011" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0012" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0013" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0014" x="0" y="764" width="1413" height="719" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+<SubTexture name="TordBot Boom0015" x="1070" y="0" width="343" height="384" frameX="-180" frameY="-58" frameWidth="1732" frameHeight="853"/>
+</TextureAtlas>
